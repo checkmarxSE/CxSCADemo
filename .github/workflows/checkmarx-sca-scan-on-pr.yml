@@ -7,7 +7,6 @@
 # The following variables must be inserted below:
 #   - <ProjectName>
 #   - <SCATenant>
-#   - <GitHubRepoUrl>
 #
 # For full documentation, including a list of all inputs, please refer to the README https://github.com/checkmarx-ts/checkmarx-cxflow-github-action
 
